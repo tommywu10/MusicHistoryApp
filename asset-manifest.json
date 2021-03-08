@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/MusicHistoryApp/static/css/main.2ca31746.chunk.css",
+    "main.js": "/MusicHistoryApp/static/js/main.7a4c4ffe.chunk.js",
+    "main.js.map": "/MusicHistoryApp/static/js/main.7a4c4ffe.chunk.js.map",
+    "runtime-main.js": "/MusicHistoryApp/static/js/runtime-main.02102860.js",
+    "runtime-main.js.map": "/MusicHistoryApp/static/js/runtime-main.02102860.js.map",
+    "static/js/2.d0024486.chunk.js": "/MusicHistoryApp/static/js/2.d0024486.chunk.js",
+    "static/js/2.d0024486.chunk.js.map": "/MusicHistoryApp/static/js/2.d0024486.chunk.js.map",
+    "index.html": "/MusicHistoryApp/index.html",
+    "static/css/main.2ca31746.chunk.css.map": "/MusicHistoryApp/static/css/main.2ca31746.chunk.css.map",
+    "static/js/2.d0024486.chunk.js.LICENSE.txt": "/MusicHistoryApp/static/js/2.d0024486.chunk.js.LICENSE.txt",
+    "static/media/trebleclef.25a73f8e.svg": "/MusicHistoryApp/static/media/trebleclef.25a73f8e.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.02102860.js",
+    "static/js/2.d0024486.chunk.js",
+    "static/css/main.2ca31746.chunk.css",
+    "static/js/main.7a4c4ffe.chunk.js"
+  ]
+}
