@@ -1,21 +1,20 @@
 {
   "files": {
     "main.css": "/MusicHistoryApp/static/css/main.f4e48384.chunk.css",
-    "main.js": "/MusicHistoryApp/static/js/main.ec8abd25.chunk.js",
-    "main.js.map": "/MusicHistoryApp/static/js/main.ec8abd25.chunk.js.map",
+    "main.js": "/MusicHistoryApp/static/js/main.11ef34c9.chunk.js",
+    "main.js.map": "/MusicHistoryApp/static/js/main.11ef34c9.chunk.js.map",
     "runtime-main.js": "/MusicHistoryApp/static/js/runtime-main.02102860.js",
     "runtime-main.js.map": "/MusicHistoryApp/static/js/runtime-main.02102860.js.map",
-    "static/js/2.a5638c71.chunk.js": "/MusicHistoryApp/static/js/2.a5638c71.chunk.js",
-    "static/js/2.a5638c71.chunk.js.map": "/MusicHistoryApp/static/js/2.a5638c71.chunk.js.map",
+    "static/js/2.0cefa61d.chunk.js": "/MusicHistoryApp/static/js/2.0cefa61d.chunk.js",
+    "static/js/2.0cefa61d.chunk.js.map": "/MusicHistoryApp/static/js/2.0cefa61d.chunk.js.map",
     "index.html": "/MusicHistoryApp/index.html",
     "static/css/main.f4e48384.chunk.css.map": "/MusicHistoryApp/static/css/main.f4e48384.chunk.css.map",
-    "static/js/2.a5638c71.chunk.js.LICENSE.txt": "/MusicHistoryApp/static/js/2.a5638c71.chunk.js.LICENSE.txt",
-    "static/media/arrow-left-solid.b27e2493.svg": "/MusicHistoryApp/static/media/arrow-left-solid.b27e2493.svg"
+    "static/js/2.0cefa61d.chunk.js.LICENSE.txt": "/MusicHistoryApp/static/js/2.0cefa61d.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.02102860.js",
-    "static/js/2.a5638c71.chunk.js",
+    "static/js/2.0cefa61d.chunk.js",
     "static/css/main.f4e48384.chunk.css",
-    "static/js/main.ec8abd25.chunk.js"
+    "static/js/main.11ef34c9.chunk.js"
   ]
 }
