@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/MusicHistoryApp/static/css/main.f4e48384.chunk.css",
-    "main.js": "/MusicHistoryApp/static/js/main.850f1d5b.chunk.js",
-    "main.js.map": "/MusicHistoryApp/static/js/main.850f1d5b.chunk.js.map",
+    "main.js": "/MusicHistoryApp/static/js/main.5713e166.chunk.js",
+    "main.js.map": "/MusicHistoryApp/static/js/main.5713e166.chunk.js.map",
     "runtime-main.js": "/MusicHistoryApp/static/js/runtime-main.02102860.js",
     "runtime-main.js.map": "/MusicHistoryApp/static/js/runtime-main.02102860.js.map",
-    "static/js/2.0cefa61d.chunk.js": "/MusicHistoryApp/static/js/2.0cefa61d.chunk.js",
-    "static/js/2.0cefa61d.chunk.js.map": "/MusicHistoryApp/static/js/2.0cefa61d.chunk.js.map",
+    "static/js/2.7416ff24.chunk.js": "/MusicHistoryApp/static/js/2.7416ff24.chunk.js",
+    "static/js/2.7416ff24.chunk.js.map": "/MusicHistoryApp/static/js/2.7416ff24.chunk.js.map",
     "index.html": "/MusicHistoryApp/index.html",
     "static/css/main.f4e48384.chunk.css.map": "/MusicHistoryApp/static/css/main.f4e48384.chunk.css.map",
-    "static/js/2.0cefa61d.chunk.js.LICENSE.txt": "/MusicHistoryApp/static/js/2.0cefa61d.chunk.js.LICENSE.txt"
+    "static/js/2.7416ff24.chunk.js.LICENSE.txt": "/MusicHistoryApp/static/js/2.7416ff24.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.02102860.js",
-    "static/js/2.0cefa61d.chunk.js",
+    "static/js/2.7416ff24.chunk.js",
     "static/css/main.f4e48384.chunk.css",
-    "static/js/main.850f1d5b.chunk.js"
+    "static/js/main.5713e166.chunk.js"
   ]
 }
